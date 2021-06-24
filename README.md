@@ -1,1 +1,3 @@
-# Telcom_cust_churn
+# Telcome customer churn prediction
+
+This a Telephone services company data. The objective of the project is to predict customer churn. The word “churn” refers to a customer giving up on that company. The reasons could be anything from faulty products to inadequate after-sales services. So, to counteract that, many companies are starting to understand the customer behavior to predict the customer churn and taking steps to cease that trend with the help of AI and machine learning models. Before developing a predictive model, one needs to understand and analyze the available data to perform required data pre-processing. In this project we perofrm preprocessing steps and data cleaning to make data ready to use for predictions using machine learning algorithms.
